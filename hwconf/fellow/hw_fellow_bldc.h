@@ -17,9 +17,9 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
     */
 
-#ifndef HW_LECTEC_ESC_H_
-#define HW_LECTEC_ESC_H_
+#ifndef HW_FELLOW_BLDC_H_
+#define HW_FELLOW_BLDC_H_
 
 #include "hw_fellow_bldc_core.h"
 
-#endif /* HW_LECTEC_ESC_H_ */
+#endif /* HW_FELLOW_BLDC_H_ */

@@ -21,6 +21,7 @@
 #define HW_FELLOW_BLDC_CORE_H_
 
 #define HW_NAME					"FELLOW_BLDC"
+//#include "mcconf_fellow_S18P12_bldc.h"
 #include "mcconf_fellow_bldc.h"
 #include "appconf_fellow_bldc.h"
 
